@@ -139,6 +139,28 @@ nav li {
     top: 150px;
 }
 
+.top1,
+.top2,
+.top3,
+.top4 {
+    display: flex;
+    margin-top: 10px;
+}
+
+.section3-droite-bottom img {
+    width: 50px;
+}
+
+.section3-droite-bottom svg {
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+
+.section3 h3 {
+    font-size: 16px;
+}
+
 
 /*SECTION 5 */
 
